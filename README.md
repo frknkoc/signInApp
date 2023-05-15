@@ -2,6 +2,6 @@
 
 About App
 
-![SignInApp-1](https://github.com/frknkoc/signInApp/assets/93766996/8340419d-683b-4f08-b69e-e8d3292bf4ca)
+![SignInApp-1](https://github.com/frknkoc/signInApp/assets/93766996/544b5343-a67b-4b79-80c4-769bf356d356)
 
-![SignInApp-2](https://github.com/frknkoc/signInApp/assets/93766996/6d37da3e-f0ea-4e4e-a50e-eb4cfbad63ad)
+![SignInApp-2](https://github.com/frknkoc/signInApp/assets/93766996/c41a4ef4-ea80-4bd3-80dd-aa6067c3964e)
